@@ -89,7 +89,7 @@ export default create({
     rows: Number,
     minRows: {
       type: Number,
-      default: 5
+      default: 3
     },
     maxRows: {
       type: Number,
